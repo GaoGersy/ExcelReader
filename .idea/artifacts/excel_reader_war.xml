@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="excel-reader:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="excel-reader-1.0.war">
+      <element id="artifact" artifact-name="excel-reader:war exploded" />
+    </root>
+  </artifact>
+</component>
